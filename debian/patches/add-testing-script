@@ -1,0 +1,9 @@
+Description: Add testing.sh script, print message during installation
+Author: Muhammed B. Aydemir <muhammed.1299x@gmail.com>
+
+--- /dev/null
++++ hello-2.10/testing.sh
+@@ -0,0 +1,3 @@
++#!/bin/bash
++
++echo "this is a test from Muhammed B. Aydemir" >&2

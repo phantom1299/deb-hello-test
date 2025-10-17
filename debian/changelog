@@ -1,3 +1,9 @@
+hello (2.10-1ubuntu1) bionic; urgency=medium
+
+  * Add custom testing.sh script, print message during installation
+
+ -- Muhammed B. Aydemir <muhammed.1299x@gmail.com>  Fri, 17 Oct 2025 16:55:37 +0300
+
 hello (2.10-1build3) bionic-security; urgency=medium
 
   * No-change rebuild for testing purposes.
